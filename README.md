@@ -1,6 +1,6 @@
 ### Hi, I'm Luc Mensah 👋
 
-AI & software engineer based in Bordeaux, France. I take machine learning models from research to production: RAG systems, microservices and MLOps.
+AI & software engineer based in France. I take machine learning models from research to production: RAG systems, microservices and MLOps.
 
 - 🔭 Recently: deep reinforcement learning for rail connectivity (Gustave Eiffel University) and HPC data tooling (Ifremer)
 - 🛠️ Python, PyTorch, scikit-learn, FastAPI, Django, TypeScript, React, Docker, Kubernetes, GitHub Actions
